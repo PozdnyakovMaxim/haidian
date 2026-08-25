@@ -9,7 +9,7 @@ license: "COMMUNITY-DISPLAY-ONLY"
 summary: "Replace the model, not the city: one shared ground builds on the existing Jing-Zhang heritage public space; seven Switch Streets connect campuses, neighbourhoods, transit and industry; and three long-life frames—Proof Yard, Origin Cloister and Exchange Hall—host replaceable services, infill and AI equipment. Official polygons trigger whole-package rebinding and recalculation."
 tracks: ["ai-traffic-walkability", "youth-friendly-public-space", "robotics-autonomous-mobility"]
 scenarios: ["ai-traffic-walkability", "robot-delivery-low-speed", "ai-cultural-guide", "public-safety-operations-review"]
-iteration: "v2.15-candidate"
+iteration: "v2.16-candidate"
 ---
 
 # THE SHARED FLOOR (`京张共地`)
@@ -379,7 +379,7 @@ Vendor quotations and authorised field baselines remain zero, so no construction
 
 The public-test protocol preregisters `persona:P01–P07`, no-phone same-task completion, a continuous accessible chain, queue/wait, climate, service shift, complaint/appeal and `issue → design change → retest → closure` forms. Authorised participants and completed field observations both remain zero, so this is not completed co-design. [data:visual/assets/delivery-field-baseline-protocol.json] [metric:delivery_authorised_participant_count] [metric:delivery_field_observation_count]
 
-All 12/12 external permission and accountability gates remain `HOLD`, with zero unsafe site, construction or opening release. [metric:delivery_external_gate_hold_count] [metric:delivery_unsafe_site_release_count]
+All 12/12 external permission and accountability gates remain `HOLD`, with zero unsafe site, construction or opening release. Opening those twelve gates is not on the participant side: the credentials are issued by the competent authorities and by future appointed accountable parties. What a participant can supply — the templates, the criteria and the deny-by-default release rules — is already in place and checkable item by item. [metric:delivery_external_gate_hold_count] [metric:delivery_unsafe_site_release_count]
 
 | Package | Registered scope and spatial output | Accountable type / funding class | Hold or rebind condition |
 |---|---|---|---|

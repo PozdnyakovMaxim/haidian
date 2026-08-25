@@ -9,7 +9,7 @@ license: "COMMUNITY-DISPLAY-ONLY"
 summary: "换模型，不换城市：以既有京张遗产公共空间为一层共地，用七条转换街缝合校园、社区、站点与产业，并以验证院、原点廊院、城市交汇厅三种长期框架承载可替换的服务、内装和 AI 设备；官方边界到位后整包重绑定、复算。"
 tracks: ["ai-traffic-walkability", "youth-friendly-public-space", "robotics-autonomous-mobility"]
 scenarios: ["ai-traffic-walkability", "robot-delivery-low-speed", "ai-cultural-guide", "public-safety-operations-review"]
-iteration: "v2.15-candidate"
+iteration: "v2.16-candidate"
 ---
 
 # 京张共地 / THE SHARED FLOOR
@@ -379,7 +379,7 @@ P0 站前共享檐保留 36×36 米筛查、16×16 米可逆地面、8×8 米可
 
 公众验证协议已预登记 `persona:P01–P07`、无手机同任务、连续无障碍链、排队/等待、气候、服务班次、投诉/申诉和 `问题→设计修改→复测→关闭` 表单；获授权参与者与已完成现场观察仍均为 0，所以它不是已发生的共创。[data:visual/assets/delivery-field-baseline-protocol.json] [metric:delivery_authorised_participant_count] [metric:delivery_field_observation_count]
 
-12/12 道外部许可与责任门全部 `HOLD`，错误场地、施工或开放放行为 0。[metric:delivery_external_gate_hold_count] [metric:delivery_unsafe_site_release_count]
+12/12 道外部许可与责任门全部 `HOLD`，错误场地、施工或开放放行为 0。这 12 道门的开启权不在参赛者一侧：凭证由主管部门与未来获任命的责任主体签发，参赛者能做的模板、判据与拒绝放行规则已全部就位并可逐项核查。[metric:delivery_external_gate_hold_count] [metric:delivery_unsafe_site_release_count]
 
 | 包 | 登记范围与空间产物 | 责任主体类型 / 资金类 | 不放行或重绑定条件 |
 |---|---|---|---|
